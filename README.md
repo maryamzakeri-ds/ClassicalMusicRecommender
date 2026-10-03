@@ -51,6 +51,9 @@ ClassicalMusicRecommender/
 
 A Streamlit application allows users to enter a composer or musical piece and receive similar recommendations.
 
+![Classical Music Recommender Demo]
+(image/demo.png)
+
 ## Installation
 
 Clone the repository:
