@@ -1,0 +1,78 @@
+id,name,complete_name,birth,death,epoch,portrait
+149,Adams,John Adams,1947-01-01,,21st Century,https://assets.openopus.org/portraits/74462091-1568084854.jpg
+87,Bach,Johann Sebastian Bach,1685-01-01,1750-01-01,Baroque,https://assets.openopus.org/portraits/12091447-1568084857.jpg
+125,Bartók,Béla Bartók,1881-01-01,1945-01-01,20th Century,https://assets.openopus.org/portraits/70269699-1568084859.jpg
+145,Beethoven,Ludwig van Beethoven,1770-01-01,1827-01-01,Early Romantic,https://assets.openopus.org/portraits/55910756-1568084860.jpg
+210,Berg,Alban Berg,1885-01-01,1935-01-01,20th Century,https://assets.openopus.org/portraits/48656640-1568084861.jpg
+175,Berlioz,Hector Berlioz,1803-01-01,1869-01-01,Romantic,https://assets.openopus.org/portraits/90617536-1568084862.jpg
+43,Borodin,Alexander Borodin,1833-01-01,1887-01-01,Romantic,https://assets.openopus.org/portraits/53652421-1568084865.jpg
+132,Boulez,Pierre Boulez,1925-01-01,2016-01-05,Post-War,https://assets.openopus.org/portraits/42416182-1568084866.jpg
+80,Brahms,Johannes Brahms,1833-01-01,1897-01-01,Romantic,https://assets.openopus.org/portraits/46443632-1568084867.jpg
+169,Britten,Benjamin Britten,1913-01-01,1976-01-01,20th Century,https://assets.openopus.org/portraits/68127201-1568084867.jpg
+2,Bruckner,Anton Bruckner,1824-01-01,1896-01-01,Romantic,https://assets.openopus.org/portraits/25478484-1568084868.jpg
+152,Chopin,Frédéric Chopin,1810-01-01,1849-01-01,Romantic,https://assets.openopus.org/portraits/72753742-1568084874.jpg
+170,Copland,Aaron Copland,1900-01-01,1990-01-01,20th Century,https://assets.openopus.org/portraits/14332690-1568084874.jpg
+128,Couperin,François Couperin,1668-01-01,1733-01-01,Baroque,https://assets.openopus.org/portraits/14431853-1568084875.jpg
+105,Debussy,Claude Debussy,1862-01-01,1918-01-01,Late Romantic,https://assets.openopus.org/portraits/58875477-1568084877.jpg
+50,Des Prez,Josquin Des Prez,1450-01-01,1521-01-01,Renaissance,https://assets.openopus.org/portraits/44171858-1568084878.jpg
+82,Dufay,Guillaume Dufay,1400-01-01,1474-01-01,Medieval,https://assets.openopus.org/portraits/40935386-1568084886.jpg
+189,Dvořák,Antonín Dvořák,1841-01-01,1904-01-01,Romantic,https://assets.openopus.org/portraits/32988185-1568084888.jpg
+198,Elgar,Edward Elgar,1857-01-01,1934-01-01,Late Romantic,https://assets.openopus.org/portraits/76291703-1568084888.jpg
+37,Falla,Manuel de Falla,1876-01-01,1946-01-01,20th Century,https://assets.openopus.org/portraits/64075691-1568084889.jpg
+12,Franck,César Franck,1822-01-01,1890-01-01,Romantic,https://assets.openopus.org/portraits/66473468-1568084890.jpg
+136,Gershwin,George Gershwin,1898-01-01,1937-01-01,20th Century,https://assets.openopus.org/portraits/15396024-1568084900.jpg
+14,Gesualdo,Carlo Gesualdo,1561-01-01,1613-01-01,Renaissance,https://assets.openopus.org/portraits/11647122-1568084900.jpg
+32,Ginastera,Alberto Ginastera,1916-01-01,1983-01-01,20th Century,https://assets.openopus.org/portraits/21930339-1568084901.jpg
+95,Glass,Philip Glass,1937-01-01,,Post-War,https://assets.openopus.org/portraits/41848722-1568084901.jpg
+92,Gluck,Christoph Willibald von Gluck,1714-01-01,1787-01-01,Classical,https://assets.openopus.org/portraits/93070343-1568084903.jpg
+162,Grieg,Edvard Grieg,1843-01-01,1907-01-01,Romantic,https://assets.openopus.org/portraits/69318482-1568084907.jpg
+67,Handel,George Frideric Handel,1685-01-01,1759-01-01,Baroque,https://assets.openopus.org/portraits/59133744-1568084908.jpg
+208,Haydn,Franz Joseph Haydn,1732-01-01,1809-01-01,Classical,https://assets.openopus.org/portraits/21056059-1568084909.jpg
+217,Ives,Charles Ives,1874-01-01,1954-01-01,20th Century,https://assets.openopus.org/portraits/76435120-1568084914.jpg
+96,Janacek,Leoš Janáček,1854-01-01,1928-01-01,Late Romantic,https://assets.openopus.org/portraits/46281538-1568084914.jpg
+23,Janequin,Clément Janequin,1485-01-01,1558-01-01,Renaissance,https://assets.openopus.org/portraits/20072963-1568084915.jpg
+88,Lassus,Orlande de Lassus,1532-01-01,1594-01-01,Renaissance,https://assets.openopus.org/portraits/28236314-1568084917.jpg
+220,Léonin,Léonin,1135-01-01,1201-01-01,Medieval,https://assets.openopus.org/portraits/46672179-1568084918.jpg
+26,Ligeti,György Ligeti,1923-01-01,2006-01-01,Post-War,https://assets.openopus.org/portraits/20523267-1568084918.jpg
+197,Liszt,Franz Liszt,1811-01-01,1886-01-01,Romantic,https://assets.openopus.org/portraits/60368090-1568084919.jpg
+10,Lully,Jean-Baptiste Lully,1632-01-01,1687-01-01,Baroque,https://assets.openopus.org/portraits/70218674-1568084919.jpg
+142,Lutoslawski,Witold Lutoslawski,1913-01-01,1994-01-01,Post-War,https://assets.openopus.org/portraits/44458407-1568084920.jpg
+77,Mahler,Gustav Mahler,1860-01-01,1911-01-01,Late Romantic,https://assets.openopus.org/portraits/22233485-1568084921.jpg
+11,Martinů,Bohuslav Martinů,1890-01-01,1959-01-01,20th Century,https://assets.openopus.org/portraits/83538331-1568084922.jpg
+147,Mendelssohn,Felix Mendelssohn,1809-01-01,1847-01-01,Romantic,https://assets.openopus.org/portraits/77325243-1568084923.jpg
+150,Messiaen,Olivier Messiaen,1908-01-01,1992-01-01,20th Century,https://assets.openopus.org/portraits/75917774-1568084924.jpg
+121,Milhaud,Darius Milhaud,1892-01-01,1974-01-01,20th Century,https://assets.openopus.org/portraits/63828607-1568084924.jpg
+39,Monteverdi,Claudio Monteverdi,1567-01-01,1643-01-01,Renaissance,https://assets.openopus.org/portraits/23287146-1568084925.jpg
+196,Mozart,Wolfgang Amadeus Mozart,1756-01-01,1791-01-01,Classical,https://assets.openopus.org/portraits/21459195-1568084925.jpg
+181,Mussorgsky,Modest Mussorgsky,1839-01-01,1881-01-01,Romantic,https://assets.openopus.org/portraits/94856316-1568084926.jpg
+52,Nielsen,Carl Nielsen,1865-01-01,1931-01-01,Late Romantic,https://assets.openopus.org/portraits/94573742-1568084926.jpg
+214,Palestrina,Giovanni Pierluigi da Palestrina,1525-01-01,1594-01-01,Renaissance,https://assets.openopus.org/portraits/87002311-1568084929.jpg
+5,Pärt,Arvo Pärt,1935-01-01,,Post-War,https://assets.openopus.org/portraits/86838304-1568084929.jpg
+219,Pérotin,Pérotin,1160-01-01,1236-01-01,Medieval,https://assets.openopus.org/portraits/39523255-1568084930.jpg
+202,Poulenc,Francis Poulenc,1899-01-01,1963-01-01,20th Century,https://assets.openopus.org/portraits/94859063-1568084931.jpg
+185,Prokofiev,Sergei Prokofiev,1891-01-01,1953-01-01,20th Century,https://assets.openopus.org/portraits/75689172-1568084932.jpg
+146,Puccini,Giacomo Puccini,1858-01-01,1924-01-01,Late Romantic,https://assets.openopus.org/portraits/90175388-1568084932.jpg
+199,Purcell,Henry Purcell,1659-01-01,1695-01-01,Baroque,https://assets.openopus.org/portraits/98518308-1568084936.jpg
+188,Rachmaninoff,Sergei Rachmaninoff,1873-01-01,1943-01-01,Late Romantic,https://assets.openopus.org/portraits/85784913-1568084937.jpg
+178,Rameau,Jean-Philippe Rameau,1683-01-01,1764-01-01,Baroque,https://assets.openopus.org/portraits/82780595-1568084937.jpg
+57,Ravel,Maurice Ravel,1875-01-01,1937-01-01,Late Romantic,https://assets.openopus.org/portraits/74628863-1568084938.jpg
+176,Reich,Steve Reich,1936-01-01,,Post-War,https://assets.openopus.org/portraits/65680484-1568084938.jpg
+118,Rimsky-Korsakov,Nikolai Rimsky-Korsakov,1844-01-01,1908-01-01,Romantic,https://assets.openopus.org/portraits/93378408-1568084939.jpg
+60,Rossini,Gioachino Rossini,1792-01-01,1868-01-01,Early Romantic,https://assets.openopus.org/portraits/97489684-1568084941.jpg
+45,Saint-Saëns,Camille Saint-Saëns,1835-01-01,1921-01-01,Romantic,https://assets.openopus.org/portraits/16186799-1568084942.jpg
+97,Scarlatti,Domenico Scarlatti,1685-01-01,1757-01-01,Baroque,https://assets.openopus.org/portraits/19391876-1568084943.jpg
+137,Schnittke,Alfred Schnittke,1934-01-01,1998-01-01,Post-War,https://assets.openopus.org/portraits/99130147-1568084944.jpg
+62,Schoenberg,Arnold Schoenberg,1874-01-01,1951-01-01,20th Century,https://assets.openopus.org/portraits/50272459-1568084944.jpg
+183,Schubert,Franz Schubert,1797-01-01,1828-01-01,Early Romantic,https://assets.openopus.org/portraits/91122704-1568084944.jpg
+129,Schumann,Robert Schumann,1810-01-01,1856-01-01,Romantic,https://assets.openopus.org/portraits/25233320-1568084946.jpg
+191,Schütz,Heinrich Schütz,1585-01-01,1672-01-01,Renaissance,https://assets.openopus.org/portraits/65387096-1568084946.jpg
+46,Shostakovich,Dmitri Shostakovich,1906-01-01,1975-01-01,20th Century,https://assets.openopus.org/portraits/61000880-1568084947.jpg
+186,Sibelius,Jean Sibelius,1865-01-01,1957-01-01,Late Romantic,https://assets.openopus.org/portraits/56825570-1568084947.jpg
+211,Smetana,Bedrich Smetana,1824-01-01,1884-01-01,Romantic,https://assets.openopus.org/portraits/54465619-1568084947.jpg
+190,Stravinsky,Igor Stravinsky,1882-01-01,1971-01-01,20th Century,https://assets.openopus.org/portraits/84229197-1568084952.jpg
+79,Tchaikovsky,Pyotr Ilyich Tchaikovsky,1840-01-01,1893-01-01,Romantic,https://assets.openopus.org/portraits/32941433-1568084956.jpg
+35,Verdi,Giuseppe Verdi,1813-01-01,1901-01-01,Romantic,https://assets.openopus.org/portraits/20193752-1568084957.jpg
+55,Villa-Lobos,Heitor Villa-Lobos,1887-01-01,1959-01-01,20th Century,https://assets.openopus.org/portraits/90351894-1568084958.jpg
+98,Vivaldi,Antonio Vivaldi,1678-01-01,1741-01-01,Baroque,https://assets.openopus.org/portraits/64540242-1568084959.jpg
+138,Wagner,Richard Wagner,1813-01-01,1883-01-01,Romantic,https://assets.openopus.org/portraits/39267138-1568084959.jpg
+6,Webern,Anton Webern,1883-01-01,1945-01-01,20th Century,https://assets.openopus.org/portraits/81818268-1568084960.jpg

@@ -1,0 +1,19 @@
+# model files
+models/*.pkl
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+
